@@ -3,11 +3,11 @@
   padding: 0;
   margin: 0;
 }
-
+/* body color change */
 body {
   background-color: #d9dcd6;
 }
-
+/* header  make changes in horiseon text background*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -15,13 +15,13 @@ body {
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* h1 make chages in Horiseon text */
 .header h1 {
   display: inline-block;
   font-size: 48px;
   color: #d9dcd6;
 }
-
+/* div make changes in list style inline */
 .header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -29,7 +29,7 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-
+/* list-style-type property not give any style in unorderlist */
 .header div ul {
   list-style-type: none;
 }
@@ -38,7 +38,7 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* a attribut text underline remove from text-decoration */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -47,7 +47,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* first big image css */
 .hero {
   height: 800px;
   width: 100%;
@@ -66,13 +66,13 @@ p {
   float: right;
   margin-left: 25px;
 }
-
+/* content and search-engine-optimization class make changes in (second images and text) means second box */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/* all benifit -lead,brand,cost,benifit-lead,cost,brand h3,benifit-lead,cost,brand images make changes in vertical box */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -131,7 +131,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/*please see comment above contant class */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -140,7 +140,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* online-reputation-management class make changes in (thired images and text) means third box */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -158,11 +158,11 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/*please see comment above contant class */
 .search-engine-optimization img {
   max-height: 200px;
 }
-
+/*please see comment above online-reputation-management class */
 .online-reputation-management img {
   max-height: 200px;
 }
@@ -170,22 +170,22 @@ p {
 .social-media-marketing img {
   max-height: 200px;
 }
-
+/*please see comment above contant class */
 .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*please see comment above online-reputation-management class */
 .online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* online-reputation-management class make changes in (thired images and text) means third box */
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*footer tag make changes in last text line(copy)*/
 .footer {
   padding: 30px;
   clear: both;
